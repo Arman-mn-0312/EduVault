@@ -1,0 +1,1 @@
+-- placeholder: seed data is intentionally empty. The app uses no fake data.
